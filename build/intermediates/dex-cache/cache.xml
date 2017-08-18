@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_611698d85769563dd523f38a78aa4315f61ba1d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_97928d0708a3582fa603ffe3172a5a292a3a2513.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_c8de879d403a30babff7160e8cac9e0ca9ba3778.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pa6/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.1.0_65e1b5cfc86047e46c5eb3cd5158117df32ba2dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_9b218f2954cc08d2d910951b96436d6c667b4f4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pa6/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_02cfd69c2b9ad3eaad3e88230d018557ddf8c09b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pa6/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.5/ece7b5d0870e66d8226dab6dcf47a2b12afff061/rxjava-1.1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/pre-dexed/debug/rxjava-1.1.5_d644ce531c696fbfacc19e75fbeaa934e19240f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_46a2aee89204a9841d40aaea56f163845d7b5363.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_9c88b143a0be8c746d33a0045a8978eec2970941.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_b43fca3aa58457fefa626f76e2e90c825f6d2d17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_74fc894d9b57373f05be6f0fd0f319e8bedfe23b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d476b2283459493653eac1ea85fda14e6ed90b68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_dccfe08ae80ed66ddea6934911ff7b93753e7d81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pa6/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/pre-dexed/debug/okio-1.8.0_894f2d6e0248c5bc6df7dc5df750314b747d2ded.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_4ba9cd54ec256950f0002a08deb03643fa1fdd40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pa6/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_2afb818c187abbce55c62f665bcf98fbd5504de8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_2b1eb43da82ba08e441995ffc64aaad06162e998.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_9852c9776f5c644e14e89927ae1a705f11cabc87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pa6/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/pre-dexed/debug/gson-2.7_8416f62ba2cd197681c36dc13ca1ebed71a4debe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pa6/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.3.1/99ce730034c6f5aaed710d1e0e9df95e8714ed5f/logging-interceptor-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.3.1_ce3258c5df1b0dfec5d39d49d8f2f63b21806201.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_9fbebc16e08980e473054be990f35065f6923ddf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a60ad76c555501c6326126340f64fe7bd948e3eb">
+        <dex dex="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.0.0_fb4fd103e13348277821ba44e5a827160afa16a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pa6/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_5086b7fe29656691e2c9cc4f1bce6cedddb9e331.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_c58c93fab811ae3d58ce0c2c4ee9340967412f34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1b39e32ecbc658d14cb26e87da81742adab6fdbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pa6/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="/Users/pa6/Documents/updated water project/Water/app/build/intermediates/pre-dexed/debug/okhttp-3.3.1_aaad68ee033339338f3d47e14b42bc8a214e034e.jar" />
+    </item>
+
+</items>
